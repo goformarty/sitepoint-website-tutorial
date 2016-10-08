@@ -45,8 +45,7 @@ blockquote { margin: 0; }
 wide
 ---------------------------- */
 
-@media (min-width: 38em)
-{
+@media (min-width: 38em){
 	body 
 	{
 		font-size: 1.125em;
